@@ -1,0 +1,5 @@
+Updating 2981fbe..c754f62
+Fast-forward
+ text2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 text2.txt
